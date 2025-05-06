@@ -6,6 +6,8 @@ Effective investing strategies have historically been exclusive to professional 
 
 This project is under NDA so there are limited details I can share about the product itself, instead I will focus on the technologies I personally used.
 
+[Watch Demo Video](https://youtu.be/e195tgJF-2A)
+
 ## Python
 - Yahoo Finance API
 
